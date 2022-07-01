@@ -1,1 +1,0 @@
-django project to practice deploying to heroku
